@@ -1,0 +1,18 @@
+# php-src checkout (cloned by setup_target.sh; never committed)
+data/target/php-src/
+
+# study outputs are version-controlled; only transient backups are ignored
+data/runs/*.bak
+data/results/*.bak
+
+# secrets / env
+.env
+.env.*
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/

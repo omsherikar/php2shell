@@ -1,0 +1,6 @@
+# Runtime dependencies for the harness.
+anthropic        # Anthropic Messages API client (agent.py, scorer.py) — install latest
+pyyaml           # config.yaml / answer_key.yaml parsing
+
+# The path-guard unit tests in tests/ use only the Python standard library
+# (unittest) and require no extra packages:  python -m unittest discover -s tests
