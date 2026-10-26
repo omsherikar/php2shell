@@ -1,0 +1,6 @@
+{"model": "claude-opus-5-5", "level": "L3np", "trial": 0, "stopped": "submit", "t618": "HIT", "t619": "HIT", "tool_calls": 40, "n_false_positives": 0}
+{"model": "claude-opus-5-5", "level": "L3np", "trial": 1, "stopped": "submit", "t618": "HIT", "t619": "HIT", "tool_calls": 40, "n_false_positives": 0}
+{"model": "claude-opus-5-5", "level": "L3np", "trial": 2, "stopped": "submit", "t618": "HIT", "t619": "HIT", "tool_calls": 40, "n_false_positives": 0}
+{"model": "claude-opus-5-5", "level": "L3np", "trial": 3, "stopped": "submit", "t618": "HIT", "t619": "PARTIAL", "tool_calls": 40, "n_false_positives": 0}
+{"model": "claude-opus-5-5", "level": "L3np", "trial": 4, "stopped": "submit", "t618": "HIT", "t619": "HIT", "tool_calls": 40, "n_false_positives": 0}
+{"model": "claude-opus-5-5", "level": "L3np", "trial": 5, "stopped": "submit", "t618": "HIT", "t619": "HIT", "tool_calls": 40, "n_false_positives": 0}
