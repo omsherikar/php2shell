@@ -178,3 +178,7 @@ by the research design (training cutoff before the disclosure).
 - **Effort is held constant.** Reasoning effort is the thing being measured, so it is fixed and logged,
   never lowered to save money.
 - **Resume.** Cells already in the JSONL are skipped.
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE).
